@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Samuel</h1>
-<h4 align="left">A passionate software engineer from El Salvador, I have over 10 years of combined leadership and development experience in the technology industry</h4>
+<h4 align="left">A passionate software engineer from El Salvador, I have over 12 years of combined leadership and development experience in the technology industry</h4>
 
 <h3 align="left">Contact:</h3>
 <p align="left">
